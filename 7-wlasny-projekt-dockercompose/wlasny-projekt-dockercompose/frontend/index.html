@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<body>
+    <h2>Dodaj notatke do bazy:</h2>
+    <input id="noteInput" type="text" placeholder="Wpisz cos...">
+    <button onclick="saveNote()">Wyslij</button>
+    <ul id="list"></ul>
+
+    <script>
+        async function loadNotes() {
+            const res = await fetch('http://localhost:3000/notes');
+            const data = await res.json();
+            document.getElementById('list').innerHTML = data.map(n => `<li>${n.content}</li>`).join('');
+        }
+        async function saveNote() {
+            const content = document.getElementById('noteInput').value;
+            if (!content) return;
+            await fetch('http://localhost:3000/notes', {
+                method: 'POST',
+                headers: {'Content-Type': 'application/json'},
+                body: JSON.stringify({ content })
+            });
+            document.getElementById('noteInput').value = '';
+            loadNotes();
+        }
+        loadNotes();
+    </script>
+</body>
+</html>

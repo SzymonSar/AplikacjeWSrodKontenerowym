@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <title>Docker Color Changer</title>
+    <style>
+        body { font-family: sans-serif; display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100vh; background: #f0f0f0; }
+        .button-container { display: flex; gap: 20px; }
+        button { padding: 20px 40px; border: none; border-radius: 8px; cursor: pointer; font-size: 16px; transition: 0.3s; color: white; }
+        .red { background: #ff4d4d; }
+        .green { background: #2ecc71; }
+        .blue { background: #3498db; }
+        button:active { transform: scale(0.95); }
+    </style>
+</head>
+<body>
+    <h1>Kliknij, aby zmienić kolor przycisku</h1>
+    <div class="button-container">
+        <button class="red" onclick="changeColor(this)">Przycisk 1</button>
+        <button class="green" onclick="changeColor(this)">Przycisk 2</button>
+        <button class="blue" onclick="changeColor(this)">Przycisk 3</button>
+    </div>
+
+    <script>
+        function changeColor(btn) {
+            const colors = ['#f1c40f', '#9b59b6', '#1abc9c', '#e67e22', '#34495e'];
+            const randomColor = colors[Math.floor(Math.random() * colors.length)];
+            btn.style.backgroundColor = randomColor;
+        }
+    </script>
+</body>
+</html>
