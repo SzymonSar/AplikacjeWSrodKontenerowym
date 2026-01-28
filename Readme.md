@@ -1,10 +1,10 @@
-!\[alt text](1-basic-docker-training/ex-1/01.png)
+!\[alt text](./1-basic-docker-training/ex-1/01.png " ")
 
-!\[2](1-basic-docker-training/ex-1/02.png)
+!\[alt text](1-basic-docker-training/ex-1/02.png " ")
 
-!\[3](1-basic-docker-training/ex-1/03.png)
+!\[3](1-basic-docker-training/ex-1/03.png " ")
 
-!\[4](1-basic-docker-training/ex-1/04.png)
+!\[4](./1-basic-docker-training/ex-1/04.png " ")
 
 !\[5](1-basic-docker-training/ex-1/05.png)
 
