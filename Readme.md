@@ -1,4 +1,4 @@
-!\[1](1-basic-docker-training/ex-1/01.png)
+!\[alt text](1-basic-docker-training/ex-1/01.png)
 
 !\[2](1-basic-docker-training/ex-1/02.png)
 
