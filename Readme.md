@@ -247,232 +247,232 @@
 
 
 sekcja 1
-1[](3-devops-with-docker-part1/s1-1.png)
+![](3-devops-with-docker-part1/s1-1.png)
 
-1[](3-devops-with-docker-part1/s1-2.png)
+![](3-devops-with-docker-part1/s1-2.png)
 sekcja 2
-1[](3-devops-with-docker-part1/s2-1.png)
+![](3-devops-with-docker-part1/s2-1.png)
 
-1[](3-devops-with-docker-part1/s2-2.png)
+![](3-devops-with-docker-part1/s2-2.png)
 
-1[](3-devops-with-docker-part1/s2-3.png)
+![](3-devops-with-docker-part1/s2-3.png)
 
-1[](3-devops-with-docker-part1/s2-4.png)
+![](3-devops-with-docker-part1/s2-4.png)
 
-1[](3-devops-with-docker-part1/s2-5.png)
+![](3-devops-with-docker-part1/s2-5.png)
 
-1[](3-devops-with-docker-part1/s2-6.png)
+![](3-devops-with-docker-part1/s2-6.png)
 
-1[](3-devops-with-docker-part1/s2-7.png)
+![](3-devops-with-docker-part1/s2-7.png)
 
-1[](3-devops-with-docker-part1/s2-8.png)
+![](3-devops-with-docker-part1/s2-8.png)
 
-1[](3-devops-with-docker-part1/s2-9.png)
+![](3-devops-with-docker-part1/s2-9.png)
 
-1[](3-devops-with-docker-part1/s2-10.png)
+![](3-devops-with-docker-part1/s2-10.png)
 sekcja 3
-1[](3-devops-with-docker-part1/s3-1.png)
+![](3-devops-with-docker-part1/s3-1.png)
 
-1[](3-devops-with-docker-part1/s3-2.png)
+![](3-devops-with-docker-part1/s3-2.png)
 
-1[](3-devops-with-docker-part1/s3-3.png)
+![](3-devops-with-docker-part1/s3-3.png)
 
-1[](3-devops-with-docker-part1/s3-4.png)
+![](3-devops-with-docker-part1/s3-4.png)
 
-1[](3-devops-with-docker-part1/s3-5.png)
+![](3-devops-with-docker-part1/s3-5.png)
 
-1[](3-devops-with-docker-part1/s3-6.png)
+![](3-devops-with-docker-part1/s3-6.png)
 
-1[](3-devops-with-docker-part1/s3-7%20terminal2.png)
+![](3-devops-with-docker-part1/s3-7%20terminal2.png)
 
-1[](3-devops-with-docker-part1/s3-8%20t1.png)
+![](3-devops-with-docker-part1/s3-8%20t1.png)
 
-1[](3-devops-with-docker-part1/s3-9.png)
+![](3-devops-with-docker-part1/s3-9.png)
 
-1[](3-devops-with-docker-part1/s3-10.png)
+![](3-devops-with-docker-part1/s3-10.png)
 
-1[](3-devops-with-docker-part1/s3-11.png)
+![](3-devops-with-docker-part1/s3-11.png)
 
-1[](3-devops-with-docker-part1/s3-12.png)
+![](3-devops-with-docker-part1/s3-12.png)
 
-1[](3-devops-with-docker-part1/s3-13.png)
+![](3-devops-with-docker-part1/s3-13.png)
 sekcja 4
-1[](3-devops-with-docker-part1/s4-1.png)
+![](3-devops-with-docker-part1/s4-1.png)
 
-1[](3-devops-with-docker-part1/s4-2.png)
+![](3-devops-with-docker-part1/s4-2.png)
 
-1[](3-devops-with-docker-part1/s4-3.png)
+![](3-devops-with-docker-part1/s4-3.png)
 
-1[](3-devops-with-docker-part1/s4-4.png)
+![](3-devops-with-docker-part1/s4-4.png)
 
-1[](3-devops-with-docker-part1/s4-5.png)
+![](3-devops-with-docker-part1/s4-5.png)
 
-1[](3-devops-with-docker-part1/s4-6.png)
+![](3-devops-with-docker-part1/s4-6.png)
 
-1[](3-devops-with-docker-part1/s4-7.png)
+![](3-devops-with-docker-part1/s4-7.png)
 
-1[](3-devops-with-docker-part1/s4-8.png)
+![](3-devops-with-docker-part1/s4-8.png)
 
-1[](3-devops-with-docker-part1/s4-9.png)
+![](3-devops-with-docker-part1/s4-9.png)
 
-1[](3-devops-with-docker-part1/s4-10.png)
+![](3-devops-with-docker-part1/s4-10.png)
 
-1[](3-devops-with-docker-part1/s4-11.png)
+![](3-devops-with-docker-part1/s4-11.png)
 
-1[](3-devops-with-docker-part1/s4-12.png)
+![](3-devops-with-docker-part1/s4-12.png)
 sekcja 5
-1[](3-devops-with-docker-part1/s5-1.png)
+![](3-devops-with-docker-part1/s5-1.png)
 
-1[](3-devops-with-docker-part1/s5-2.png)
+![](3-devops-with-docker-part1/s5-2.png)
 
-1[](3-devops-with-docker-part1/s5-3.png)
+![](3-devops-with-docker-part1/s5-3.png)
 
-1[](3-devops-with-docker-part1/s5-4.png)
+![](3-devops-with-docker-part1/s5-4.png)
 
-1[](3-devops-with-docker-part1/s5-5.png)
+![](3-devops-with-docker-part1/s5-5.png)
 sekcja 6
-1[](3-devops-with-docker-part1/s6-1.png)
+![](3-devops-with-docker-part1/s6-1.png)
 
-1[](3-devops-with-docker-part1/s6-2.png)
+![](3-devops-with-docker-part1/s6-2.png)
 
-1[](3-devops-with-docker-part1/s6-3.png)
+![](3-devops-with-docker-part1/s6-3.png)
 
-1[](3-devops-with-docker-part1/s6-4.png)
+![](3-devops-with-docker-part1/s6-4.png)
 
-1[](3-devops-with-docker-part1/s6-5.png)
+![](3-devops-with-docker-part1/s6-5.png)
 
-1[](3-devops-with-docker-part1/s6-6.png)
+![](3-devops-with-docker-part1/s6-6.png)
 
-1[](3-devops-with-docker-part1/s6-7.png)
+![](3-devops-with-docker-part1/s6-7.png)
 
-1[](3-devops-with-docker-part1/s6-8.png)
+![](3-devops-with-docker-part1/s6-8.png)
 
 
 
 
 sekcja 1
-1[](4-devops-with-docker-part2/s1-1.png)
+![](4-devops-with-docker-part2/s1-1.png)
 
-1[](4-devops-with-docker-part2/s1-2.png)
+![](4-devops-with-docker-part2/s1-2.png)
 
-1[](4-devops-with-docker-part2/s1-3.png)
+![](4-devops-with-docker-part2/s1-3.png)
 
-1[](4-devops-with-docker-part2/s1-4.png)
+![](4-devops-with-docker-part2/s1-4.png)
 
-1[](4-devops-with-docker-part2/s1-5.png)
+![](4-devops-with-docker-part2/s1-5.png)
 
-1[](4-devops-with-docker-part2/s1-6.png)
+![](4-devops-with-docker-part2/s1-6.png)
 
-1[](4-devops-with-docker-part2/s1-7.png)
+![](4-devops-with-docker-part2/s1-7.png)
 sekcja 2
-1[](4-devops-with-docker-part2/s2-1.png)
+![](4-devops-with-docker-part2/s2-1.png)
 
-1[](4-devops-with-docker-part2/s2-2.png)
+![](4-devops-with-docker-part2/s2-2.png)
 
-1[](4-devops-with-docker-part2/s2-3.png)
+![](4-devops-with-docker-part2/s2-3.png)
 
-1[](4-devops-with-docker-part2/s2-4.png)
+![](4-devops-with-docker-part2/s2-4.png)
 
-1[](4-devops-with-docker-part2/s2-5.png)
+![](4-devops-with-docker-part2/s2-5.png)
 
-1[](4-devops-with-docker-part2/s2-6.png)
+![](4-devops-with-docker-part2/s2-6.png)
 
-1[](4-devops-with-docker-part2/s2-7.png)
+![](4-devops-with-docker-part2/s2-7.png)
 sekcja 3
-1[](4-devops-with-docker-part2/s3-1.png)
+![](4-devops-with-docker-part2/s3-1.png)
 
-1[](4-devops-with-docker-part2/s3-2.png)
+![](4-devops-with-docker-part2/s3-2.png)
 
-1[](4-devops-with-docker-part2/s3-3.png)
+![](4-devops-with-docker-part2/s3-3.png)
 
-1[](4-devops-with-docker-part2/s3-4.png)
+![](4-devops-with-docker-part2/s3-4.png)
 
-1[](4-devops-with-docker-part2/s3-5.png)
+![](4-devops-with-docker-part2/s3-5.png)
 
-1[](4-devops-with-docker-part2/s3-6.png)
+![](4-devops-with-docker-part2/s3-6.png)
 
-1[](4-devops-with-docker-part2/s3-7.png)
+![](4-devops-with-docker-part2/s3-7.png)
 
-1[](4-devops-with-docker-part2/s3-8.png)
+![](4-devops-with-docker-part2/s3-8.png)
 
-1[](4-devops-with-docker-part2/s3-9.png)
+![](4-devops-with-docker-part2/s3-9.png)
 
-1[](4-devops-with-docker-part2/s3-10.png)
+![](4-devops-with-docker-part2/s3-10.png)
 
-1[](4-devops-with-docker-part2/s3-11.png)
+![](4-devops-with-docker-part2/s3-11.png)
 
-1[](4-devops-with-docker-part2/s3-12.png)
+![](4-devops-with-docker-part2/s3-12.png)
 
-1[](4-devops-with-docker-part2/s3-13.png)
+![](4-devops-with-docker-part2/s3-13.png)
 
-1[](4-devops-with-docker-part2/s3-14.png)
+![](4-devops-with-docker-part2/s3-14.png)
 
-1[](4-devops-with-docker-part2/s3-15.png)
+![](4-devops-with-docker-part2/s3-15.png)
 
-1[](4-devops-with-docker-part2/s3-16.png)
+![](4-devops-with-docker-part2/s3-16.png)
 sekcja 4
-1[](4-devops-with-docker-part2/s4-1.png)
+![](4-devops-with-docker-part2/s4-1.png)
 
-1[](4-devops-with-docker-part2/s4-2.png)
+![](4-devops-with-docker-part2/s4-2.png)
 
 
 
 sekcja 2
-1[](5-devops-with-docker-part3/s2-1.png)
+![](5-devops-with-docker-part3/s2-1.png)
 
-1[](5-devops-with-docker-part3/s2-2.png)
+![](5-devops-with-docker-part3/s2-2.png)
 
-1[](5-devops-with-docker-part3/s2-3.png)
+![](5-devops-with-docker-part3/s2-3.png)
 
-1[](5-devops-with-docker-part3/s2-4.png)
+![](5-devops-with-docker-part3/s2-4.png)
 sekcja 3
-1[](5-devops-with-docker-part3/s3-1.png)
+![](5-devops-with-docker-part3/s3-1.png)
 
-1[](5-devops-with-docker-part3/s3-1.png)
+![](5-devops-with-docker-part3/s3-1.png)
 sekcja 4
-1[](5-devops-with-docker-part3/s4-1.png)
+![](5-devops-with-docker-part3/s4-1.png)
 
-1[](5-devops-with-docker-part3/s4-2.png)
+![](5-devops-with-docker-part3/s4-2.png)
 
-1[](5-devops-with-docker-part3/s4-3.png)
+![](5-devops-with-docker-part3/s4-3.png)
 
-1[](5-devops-with-docker-part3/s4-4.png)
+![](5-devops-with-docker-part3/s4-4.png)
 
-1[](5-devops-with-docker-part3/s4-5.png)
+![](5-devops-with-docker-part3/s4-5.png)
 
-1[](5-devops-with-docker-part3/s4-6.png)
+![](5-devops-with-docker-part3/s4-6.png)
 
-1[](5-devops-with-docker-part3/s4-7.png)
+![](5-devops-with-docker-part3/s4-7.png)
 
-1[](5-devops-with-docker-part3/s4-8.png)
+![](5-devops-with-docker-part3/s4-8.png)
 
-1[](5-devops-with-docker-part3/s4-9.png)
-
-
+![](5-devops-with-docker-part3/s4-9.png)
 
 
 
 
 
-1[](6-wlasny-projekt-dockerfile/1.png)
-
-1[](6-wlasny-projekt-dockerfile/2.png)
-
-1[](6-wlasny-projekt-dockerfile/3.png)
-
-1[](6-wlasny-projekt-dockerfile/4.png)
 
 
+![](6-wlasny-projekt-dockerfile/1.png)
+
+![](6-wlasny-projekt-dockerfile/2.png)
+
+![](6-wlasny-projekt-dockerfile/3.png)
+
+![](6-wlasny-projekt-dockerfile/4.png)
 
 
 
-1[](7-wlasny-projekt-dockercompose/1.png)
 
-1[](7-wlasny-projekt-dockercompose/2.png)
 
-1[](7-wlasny-projekt-dockercompose/3.png)
+![](7-wlasny-projekt-dockercompose/1.png)
 
-1[](7-wlasny-projekt-dockercompose/4.png)
+![](7-wlasny-projekt-dockercompose/2.png)
 
-1[](7-wlasny-projekt-dockercompose/5.png)
+![](7-wlasny-projekt-dockercompose/3.png)
+
+![](7-wlasny-projekt-dockercompose/4.png)
+
+![](7-wlasny-projekt-dockercompose/5.png)
 
